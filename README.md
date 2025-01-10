@@ -5,8 +5,8 @@
 
 - 👯 I am a graduate of **Electrical and Electronics**
 
-- 🤝 I’m working on **Machine Learning**
-- 
+- 🤝 Currently I’m working on **Machine Learning**
+ 
 -  🤝 I’m a full time **IT Professional** mostly working on telecom core business applications
 
 - 💬 My Undergradation Major & Thesis was on **Wirless Communication & IoT**
