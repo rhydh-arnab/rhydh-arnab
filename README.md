@@ -5,7 +5,7 @@
 
 - 👯 I am a graduate of **Electrical and Electronics**
 
-- 🤝 I’m working on **Machine Learning & Computer Vision**
+- 🤝 I’m working on **Machine Learning**
 - 
 -  🤝 I’m a full time **IT Professional** mostly working on telecom core business applications
 
@@ -15,7 +15,6 @@
 
 - ⚡ UMM **I Love Travelling**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
