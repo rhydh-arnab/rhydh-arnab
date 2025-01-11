@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S M Rhydh Arnab</h1>
-<h3 align="center">A Prospective Graduate Student</h3>
+<h3 align="center">You are never too old to learn</h3>
 
 - 🔭 I’m currently pursuing my MSc in Computer Science and Engineering at BRAC University
 
